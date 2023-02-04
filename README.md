@@ -1,2 +1,2 @@
-# v1
-First iteration of my personal website
+# Personal Website!
+Hello! Thanks for checking out my first portfolio website.
